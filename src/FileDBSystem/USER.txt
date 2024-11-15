@@ -1,0 +1,12 @@
+Humberg,cls3645,06f6dde3-ace6-4b65-a0b6-4cc409f7a5b5,TREASURER,0.0,3200.2
+prince,prince,4701de7f-8648-44d3-a9f8-97e4331bd917,CLIENT,0.0,0.0
+melissa,melissa,7336289c-c0b5-4a2c-bb3a-dae85741197d,CLIENT,50.0,0.0
+david,david,d023be51-4d51-4edc-9fc5-822b8393da41,MANAGER,0.0,0.0
+user1,user1,f4414874-df64-4efe-9cb1-f4bcdaa725c2,CLIENT,714.0,0.0
+user2,user1,a2e55aaf-62c6-423d-a5c0-708ad14a2034,CLIENT,0.0,0.0
+manager1,manager1,dc7e06c8-c5a3-4d7b-b890-fe0ad767341a,MANAGER,0.0,0.0
+0,1,e01e9973-89ca-4095-9433-a7cef0ac11f0,CLIENT,0.0,0.0
+client1,client1,a1d7fcdd-d6fb-4612-b1e3-a22a47bd6a96,CLIENT,0.0,0.0
+hana,hana,f4c7bccb-c360-41e3-a15c-c11ab8754698,CLIENT,50000.0,0.0
+mgt1,mgt1,ccdae4d9-e007-4f7f-8bc6-a466ea534e57,MANAGER,0.0,0.0
+veronica,123,ed67f5bf-c75b-4153-bca6-161e6f2ae466,CLIENT,50000.0,0.0
